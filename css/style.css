@@ -1,0 +1,73 @@
+/* Tags */
+*{
+	margin: 0; 
+	padding: 0;
+}
+
+header {
+	color: #337ab7;  
+}
+
+nav {
+	margin-bottom: 0 !important;
+	min-height: 90px; 
+}
+
+button { 
+	margin-top: 25px !important;
+}
+
+footer {
+	background-color: #222; 
+	color: #999;  
+	padding: 5px;
+}
+
+
+/* IDs */
+#logo {
+	height: auto;
+	margin: 5px 0; 
+	max-height: 150px; 
+	max-width: 120px; 
+	width: auto; 
+}
+
+#main {
+	padding: 50px;
+	background: linear-gradient(135deg, #fff 0%, #2E8B57 100%);
+}
+
+#titulo{
+	color: #008B8B;
+}
+
+#logo2 { 
+	max-height: 150px; 
+	max-width: 100px;
+	margin-bottom: 5px; 
+}
+
+
+/* Class */
+.link_menu {
+	margin-top: 20px;
+}
+
+.link_menu a {
+	color: #7FFFD4 !important; 
+	padding: 10px;
+}
+
+.link_menu a:hover {
+	background-color: #40E0D0 !important; 
+	color: #000 !important;
+}
+
+.carousel-inner img {
+    min-height: 300px;
+}
+
+.fonte {
+	color: #008B8B;
+}
